@@ -1,7 +1,14 @@
-# Agent-Memory-Paper-List
-The paper list of "Memory in the Age of AI Agents: A Survey"
+# Memory in the Age of AI Agents: A Survey
+
+
 
 ## 📖 Introduction
+
+<div align="center">
+  <img src="assets/main.png" alt="Overview of agent memory organized by the unified taxonomy" />
+  <p><em>Figure: Overview of agent memory organized by the unified taxonomy of <strong>forms</strong>, <strong>functions</strong>, and <strong>dynamics</strong>. The diagram positions memory artifacts by their dominant form and primary function. It further maps representative systems into this taxonomy to provide a consolidated landscape.</em></p>
+</div>
+
 
 Memory serves as the cornerstone of foundation model-based agents, underpinning their ability to perform long-horizon reasoning, adapt continually, and interact effectively with complex environments.
 
@@ -12,6 +19,14 @@ Despite the explosion of research in this field, the landscape remains highly fr
 - Dynamics (How Memory Evolves?): Dissecting the operational lifecycle into Formation (extraction), Evolution (consolidation & forgetting), and Retrieval (access strategies) .
 
 Through this structure, we hope to provide a conceptual foundation for rethinking memory as a first-class primitive in future agentic intelligence.
+
+## Conceptual comparison
+
+<div align="center">
+<img src="assets/concept.png" alt="Conceptual Comparison" />
+  <p><em>Conceptual comparison of <strong>Agent Memory</strong> with <strong>LLM Memory</strong>, <strong>RAG</strong>, and <strong>Context Engineering</strong>. The diagram illustrates shared technical implementations while highlighting fundamental distinctions: unlike the architectural optimizations of LLM Memory, the static knowledge access of RAG, or the transient resource management of Context Engineering, Agent Memory is uniquely characterized by its focus on maintaining a persistent and self-evolving cognitive state that integrates factual knowledge and experience.</em></p>
+</div>
+
 
 ## Paper list
 
