@@ -106,7 +106,6 @@ Through this structure, we hope to provide a conceptual foundation for rethinkin
 - [2023/10] RoleLLM: Benchmarking, Eliciting, and Enhancing Role-Playing Abilities of Large Language Models. [[paper](https://doi.org/10.18653/v1/2024.findings-acl.878)]
 - [2023/10] MemGPT: Towards LLMs as Operating Systems. [[paper](https://arxiv.org/abs/2310.08560)]
 - [2023/10] GameGPT: Multi-agent Collaborative Framework for Game Development. [[paper](https://doi.org/10.48550/ARXIV.2310.08067)]
-- [2023/10] MemGPT: Towards LLMs as Operating Systems. [[paper](https://doi.org/10.48550/ARXIV.2310.08560)]
 - [2023/10] Lyfe Agents: Generative agents for low-cost real-time social interactions. [[paper](https://arxiv.org/abs/2310.02172)]
 - [2023/08] CALYPSO: LLMs as Dungeon Masters' Assistants. [[paper](https://doi.org/10.1609/aiide.v19i1.27534)]
 - [2023/08] MetaGPT: Meta Programming for A Multi-Agent Collaborative Framework. [[paper](https://arxiv.org/abs/2308.00352)]
