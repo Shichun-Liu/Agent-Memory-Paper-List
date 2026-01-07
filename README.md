@@ -53,6 +53,7 @@ Through this structure, we hope to provide a conceptual foundation for rethinkin
 #### Token-level
 
 - [2025/12] Hindsight is 20/20: Building Agent Memory that Retains, Recalls, and Reflects. [[paper](https://arxiv.org/abs/2512.12818)]
+- [2025/11] A Simple Yet Strong Baseline for Long-Term Conversational Memory of LLM Agents. [[paper](https://arxiv.org/abs/2511.17208)]
 - [2025/11] O-Mem: Omni Memory System for Personalized, Long Horizon, Self-Evolving Agents. [[paper](https://arxiv.org/abs/2511.13593)]
 - [2025/11] RCR-Router: Efficient Role-Aware Context Routing for Multi-Agent LLM Systems with Structured Memory. [[paper](https://doi.org/10.48550/arXiv.2508.04903)]
 - [2025/11] Enabling Personalized Long-term Interactions in LLM-based Agents through Persistent Memory and User Profiles. [[paper](https://doi.org/10.48550/arXiv.2510.07925)]
