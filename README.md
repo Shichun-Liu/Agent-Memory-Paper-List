@@ -62,7 +62,6 @@ Through this structure, we hope to provide a conceptual foundation for rethinkin
 - [2025/12] MMAG: Mixed Memory-Augmented Generation for Large Language Models Applications. [[paper](https://arxiv.org/abs/2512.01710)]
 - [2025/12] Sophia: A Persistent Agent Framework of Artificial Life. [[paper](https://arxiv.org/abs/2512.18202)]
 - [2025/12] WorldMM: Dynamic Multimodal Memory Agent for Long Video Reasoning. [[paper](https://arxiv.org/abs/2512.02425)]
-- [2025/12] From Context to EDUs: Faithful and Structured Context Compression via Elementary Discourse Unit Decomposition. [[paper](https://arxiv.org/abs/2512.14244)]
 - [2025/12] Memoria: A Scalable Agentic Memory Framework for Personalized Conversational AI. [[paper](https://arxiv.org/abs/2512.12686)]
 - [2025/12] Hindsight is 20/20: Building Agent Memory that Retains, Recalls, and Reflects. [[paper](https://arxiv.org/abs/2512.12818)]
 - [2025/11] General Agentic Memory Via Deep Research. [[paper](https://arxiv.org/abs/2511.18423)]
