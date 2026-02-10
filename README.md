@@ -160,13 +160,14 @@ Through this structure, we hope to provide a conceptual foundation for rethinkin
 
 #### Latent
 
+- [2025/09] Similarity-Distance-Magnitude Activations. [[paper](https://arxiv.org/abs/2509.12760)]
 - [2025/08] Towards General Continuous Memory for Vision-Language Models. [[paper](https://arxiv.org/abs/2505.17670)]
 - [2025/03] M+: Extending MemoryLLM with Scalable Long-Term Memory. [[paper](https://doi.org/10.48550/arXiv.2502.00592)]
 - [2025/02] R3Mem: Bridging Memory Retention and Retrieval via Reversible Compression [[paper](https://arxiv.org/abs/2502.15957v1)]
 - [2024/07] Memory${}^3$: Language Modeling with Explicit Memory. [[paper](https://doi.org/10.48550/arXiv.2407.01178)]
 - [2024/03] Efficient Episodic Memory Utilization of Cooperative Multi-Agent Reinforcement Learning. [[paper](https://openreview.net/forum?id=LjivA1SLZ6)]
 - [2023/10] Memoria: Resolving Fateful Forgetting Problem through Human-Inspired Memory Architecture. [[paper](https://arxiv.org/abs/2310.03052)]
-
+- [2021/12] Detecting Local Insights from Global Labels: Supervised & Zero-Shot Sequence Labeling via a Convolutional Decomposition. [[paper](https://doi.org/10.1162/coli_a_00416)]
 
 ### Experiential Memory
 
