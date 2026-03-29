@@ -235,6 +235,8 @@ Through this structure, we hope to provide a conceptual foundation for rethinkin
 ### Working Memory
 
 #### Token-level
+- [2026/02] AMA-Bench: Evaluating Long-Horizon Memory for Agentic Applications. [[paper](https://arxiv.org/abs/2602.22769)]
+- [2026/01] Agent Drift: Quantifying Behavioral Degradation in Multi-Agent LLM Systems Over Extended Interactions. [[paper](https://arxiv.org/abs/2601.04170)]
 - [2026/01] MemRL: Self-Evolving Agents via Runtime Reinforcement Learning on Episodic Memory. [[paper]](https://arxiv.org/abs/2601.03192)
 - [2026/01] Agentic Memory: Learning Unified Long-Term and Short-Term Memory Management for Large Language Model Agents. [[paper](https://arxiv.org/abs/2601.01885)]
 - [2025/11] Memory as Action: Autonomous Context Curation for Long-Horizon Agentic Tasks. [[paper](https://doi.org/10.48550/arXiv.2510.12635)]
