@@ -237,6 +237,7 @@ Through this structure, we hope to provide a conceptual foundation for rethinkin
 #### Token-level
 - [2026/01] MemRL: Self-Evolving Agents via Runtime Reinforcement Learning on Episodic Memory. [[paper]](https://arxiv.org/abs/2601.03192)
 - [2026/01] Agentic Memory: Learning Unified Long-Term and Short-Term Memory Management for Large Language Model Agents. [[paper](https://arxiv.org/abs/2601.01885)]
+- [2026/01] Agent Drift: Quantifying Behavioral Degradation in Multi-Agent LLM Systems Over Extended Interactions. [[paper](https://arxiv.org/abs/2601.04170)]
 - [2025/11] Memory as Action: Autonomous Context Curation for Long-Horizon Agentic Tasks. [[paper](https://doi.org/10.48550/arXiv.2510.12635)]
 - [2025/11] IterResearch: Rethinking Long-Horizon Agents via Markovian State Reconstruction. [[paper](https://arxiv.org/abs/2511.07327)]
 - [2025/11] MemSearcher: Training LLMs to Reason, Search and Manage Memory via End-to-End Reinforcement Learning. [[paper](https://doi.org/10.48550/arXiv.2511.02805)]
@@ -304,4 +305,5 @@ If you find this repository helpful, a citation to our paper would be greatly ap
 ## ⭐️ Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=Shichun-Liu/Agent-Memory-Paper-List&type=date&legend=top-left)](https://www.star-history.com/#Shichun-Liu/Agent-Memory-Paper-List&type=date&legend=top-left)
+
 
