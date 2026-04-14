@@ -54,6 +54,7 @@ Through this structure, we hope to provide a conceptual foundation for rethinkin
 ### Factual Memory
 
 #### Token-level
+- [2026/04] FileGram: Grounding Agent Personalization in File-System Behavioral Traces. [[paper](https://arxiv.org/abs/2604.04901)] [[code](https://github.com/Synvo-ai/FileGram)]
 - [2026/01] Memory Matters More: Event-Centric Memory as a Logic Map for Agent Searching and Reasoning. [[paper](https://www.arxiv.org/abs/2601.04726)]
 - [2026/01] MAGMA: A Multi-Graph based Agentic Memory Architecture for AI Agents. [[paper](https://arxiv.org/abs/2601.03236)]
 - [2026/01] EverMemOS: A Self-Organizing Memory Operating System for Structured Long-Horizon Reasoning. [[paper](https://www.arxiv.org/abs/2601.02163)]
