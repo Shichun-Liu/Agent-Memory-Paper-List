@@ -172,6 +172,7 @@ Through this structure, we hope to provide a conceptual foundation for rethinkin
 ### Experiential Memory
 
 #### Token-level
+- [2026/04] ZenBrain: A Neuroscience-Inspired 7-Layer Memory Architecture for Autonomous AI Systems. [[paper](https://arxiv.org/abs/2604.23878)]
 - [2026/01] MemRL: Self-Evolving Agents via Runtime Reinforcement Learning on Episodic Memory. [[paper](https://arxiv.org/abs/2601.03192)]
 - [2025/12] MemEvolve: Meta-Evolution of Agent Memory Systems. [[paper](https://arxiv.org/abs/2512.18746)]
 - [2025/12] Remember Me, Refine Me: A Dynamic Procedural Memory Framework for Experience-Driven Agent Evolution. [[paper](https://arxiv.org/abs/2512.10696)]
