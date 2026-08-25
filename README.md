@@ -54,6 +54,7 @@ Through this structure, we hope to provide a conceptual foundation for rethinkin
 ### Factual Memory
 
 #### Token-level
+- [2026/04] StructMem: Structured Memory for Long-Horizon Behavior in LLMs. [[paper](https://arxiv.org/abs/2604.21748)]
 - [2026/01] Memory Matters More: Event-Centric Memory as a Logic Map for Agent Searching and Reasoning. [[paper](https://www.arxiv.org/abs/2601.04726)]
 - [2026/01] MAGMA: A Multi-Graph based Agentic Memory Architecture for AI Agents. [[paper](https://arxiv.org/abs/2601.03236)]
 - [2026/01] EverMemOS: A Self-Organizing Memory Operating System for Structured Long-Horizon Reasoning. [[paper](https://www.arxiv.org/abs/2601.02163)]
@@ -235,6 +236,7 @@ Through this structure, we hope to provide a conceptual foundation for rethinkin
 ### Working Memory
 
 #### Token-level
+- [2026/06] TokenPilot: Cache-Efficient Context Management for LLM Agents. [[paper](https://arxiv.org/abs/2606.17016)]
 - [2026/01] MemRL: Self-Evolving Agents via Runtime Reinforcement Learning on Episodic Memory. [[paper]](https://arxiv.org/abs/2601.03192)
 - [2026/01] Agentic Memory: Learning Unified Long-Term and Short-Term Memory Management for Large Language Model Agents. [[paper](https://arxiv.org/abs/2601.01885)]
 - [2025/11] Memory as Action: Autonomous Context Curation for Long-Horizon Agentic Tasks. [[paper](https://doi.org/10.48550/arXiv.2510.12635)]
