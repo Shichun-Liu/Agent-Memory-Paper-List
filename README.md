@@ -54,6 +54,28 @@ Through this structure, we hope to provide a conceptual foundation for rethinkin
 ### Factual Memory
 
 #### Token-level
+- [2026/09] AIM: A Privacy-Aware Interoperable Memory Framework for Multi-Agent Multi-User LLM Systems. [[paper](https://arxiv.org/abs/2609.12320)]
+- [2026/09] CueMem: Cue-Guided Context Reconstruction for Long-Term Conversational Memory. [[paper](https://arxiv.org/abs/2609.12354)]
+- [2026/08] Agent Zero Memory: Provenance-Aware Long-Term Memory for LLM Agents. [[paper](https://arxiv.org/abs/2608.29606)]
+- [2026/08] When Your Agent Opens the Chat App: Agent-Controlled Search over Raw Chat Logs Rivals Structured Memory. [[paper](https://arxiv.org/abs/2608.12888)]
+- [2026/07] Filesystem-Based Memory for LLM Agents: Organization, Evolution, and Sustainability. [[paper](https://arxiv.org/abs/2607.26637)]
+- [2026/07] ChronoMem: Version Control and Semantic Rollback for LLM Agent Memory. [[paper](https://arxiv.org/abs/2607.27773)]
+- [2026/06] MRAgent: Memory is Reconstructed, Not Retrieved -- Graph Memory for LLM Agents. [[paper](https://arxiv.org/abs/2606.06036)]
+- [2026/06] Memory Beyond Recall: A Dual-Process Cognitive Memory System for Self-Evolving LLM Agents. [[paper](https://arxiv.org/abs/2606.09483)]
+- [2026/06] Infini Memory: Maintainable Topic Documents for Long-Term LLM Agent Memory. [[paper](https://arxiv.org/abs/2606.10677)]
+- [2026/05] H-Mem: Evolving and Retrieving Agent Memory via a Hybrid Structure. [[paper](https://arxiv.org/abs/2605.15701)]
+- [2026/05] MemForest: An Efficient Agent Memory System with Hierarchical Temporal Indexing. [[paper](https://arxiv.org/abs/2605.23986)]
+- [2026/05] Human-Inspired Memory Architecture for LLM Agents. [[paper](https://arxiv.org/abs/2605.08538)]
+- [2026/04] HeLa-Mem: Hebbian Learning and Associative Memory for LLM Agents. [[paper](https://arxiv.org/abs/2604.16839)]
+- [2026/04] GAM: Hierarchical Graph-based Agentic Memory for LLM Agents. [[paper](https://arxiv.org/abs/2604.12285)]
+- [2026/04] Lightweight LLM Agent Memory with Small Language Models. [[paper](https://arxiv.org/abs/2604.07798)]
+- [2026/04] MemMachine: A Ground-Truth-Preserving Memory System for Personalized AI Agents. [[paper](https://arxiv.org/abs/2604.04853)]
+- [2026/03] MemMA: Coordinating the Memory Cycle through Multi-Agent Reasoning. [[paper](https://arxiv.org/abs/2603.18718)]
+- [2026/03] AdaMem: Adaptive User-Centric Memory. [[paper](https://arxiv.org/abs/2603.16496)]
+- [2026/03] CraniMem: Neurocognitively Motivated Gated and Bounded Memory. [[paper](https://arxiv.org/abs/2603.15642)]
+- [2026/03] CLAG: Adaptive Memory Organization via Agent-Driven Clustering for Small Language Model Agents. [[paper](https://arxiv.org/abs/2603.15421)]
+- [2026/03] H-Mem: Hybrid Multi-Dimensional Memory. [[paper](https://aclanthology.org/2026.eacl-long.363/)]
+- [2026/02] Memora: Harmonic Memory Representation. [[paper](https://arxiv.org/abs/2602.03315)]
 - [2026/01] Memory Matters More: Event-Centric Memory as a Logic Map for Agent Searching and Reasoning. [[paper](https://www.arxiv.org/abs/2601.04726)]
 - [2026/01] MAGMA: A Multi-Graph based Agentic Memory Architecture for AI Agents. [[paper](https://arxiv.org/abs/2601.03236)]
 - [2026/01] EverMemOS: A Self-Organizing Memory Operating System for Structured Long-Horizon Reasoning. [[paper](https://www.arxiv.org/abs/2601.02163)]
@@ -90,6 +112,7 @@ Through this structure, we hope to provide a conceptual foundation for rethinkin
 - [2025/07] MIRIX: Multi-Agent Memory System for LLM-Based Agents. [[paper](https://arxiv.org/abs/2507.07957)]
 - [2025/07] Hierarchical Memory for High-Efficiency Long-Term Reasoning in LLM Agents. [[paper](https://arxiv.org/abs/2507.22925)]
 - [2025/06] G-Memory: Tracing Hierarchical Memory for Multi-Agent Systems. [[paper](https://arxiv.org/abs/2506.07398)]
+- [2025/06] Memory OS of AI Agent. [[paper](https://arxiv.org/abs/2506.06326)]
 - [2025/06] Embodied Agents Meet Personalization: Exploring Memory Utilization for Personalized Assistance. [[paper](https://doi.org/10.48550/arXiv.2505.16348)]
 - [2025/05] MemGuide: Intent-Driven Memory Selection for Goal-Oriented Multi-Session LLM Agents. [[paper](https://arxiv.org/abs/2505.20231)]
 - [2025/05] Pre-training Limited Memory Language Models with Internal and External Knowledge. [[paper](https://arxiv.org/abs/2505.15962)]
@@ -160,6 +183,7 @@ Through this structure, we hope to provide a conceptual foundation for rethinkin
 
 #### Latent
 
+- [2026/07] Metis: Memory Foundation Model. [[paper](https://arxiv.org/abs/2607.26760)]
 - [2025/09] Similarity-Distance-Magnitude Activations. [[paper](https://arxiv.org/abs/2509.12760)]
 - [2025/08] Towards General Continuous Memory for Vision-Language Models. [[paper](https://arxiv.org/abs/2505.17670)]
 - [2025/03] M+: Extending MemoryLLM with Scalable Long-Term Memory. [[paper](https://doi.org/10.48550/arXiv.2502.00592)]
@@ -172,6 +196,12 @@ Through this structure, we hope to provide a conceptual foundation for rethinkin
 ### Experiential Memory
 
 #### Token-level
+- [2026/09] CoMem: Collective-Individual Memory Synergy for Evolutionary Multi-Agent Systems. [[paper](https://arxiv.org/abs/2609.15009)]
+- [2026/09] LifeMem: Enabling Lifelong Experience Reuse for LLM Agents. [[paper](https://arxiv.org/abs/2609.12655)]
+- [2026/07] Mechanistic Attention Guidance for Agent Memory Refinement. [[paper](https://arxiv.org/abs/2607.17621)]
+- [2026/06] MAGE: Memory as Agent-Guided Exploration. [[paper](https://arxiv.org/abs/2606.06090)]
+- [2026/06] MemPro: Agentic Memory Systems as Evolvable Programs. [[paper](https://arxiv.org/abs/2606.00619)]
+- [2026/03] PlugMem: A Task-Agnostic Plugin Memory Module. [[paper](https://arxiv.org/abs/2603.03296)]
 - [2026/01] MemRL: Self-Evolving Agents via Runtime Reinforcement Learning on Episodic Memory. [[paper](https://arxiv.org/abs/2601.03192)]
 - [2025/12] MemEvolve: Meta-Evolution of Agent Memory Systems. [[paper](https://arxiv.org/abs/2512.18746)]
 - [2025/12] Remember Me, Refine Me: A Dynamic Procedural Memory Framework for Experience-Driven Agent Evolution. [[paper](https://arxiv.org/abs/2512.10696)]
@@ -194,6 +224,7 @@ Through this structure, we hope to provide a conceptual foundation for rethinkin
 - [2025/07] Agent KB: Leveraging Cross-Domain Experience for Agentic Problem Solving. [[paper](https://arxiv.org/abs/2507.06229)]
 - [2025/07] MemTool: Optimizing short-term memory management for dynamic tool calling in llm agent multi-turn conversations. [[paper](https://arxiv.org/abs/2507.21428)]
 - [2025/05] Darwin Godel Machine: Open-Ended Evolution of Self-Improving Agents. [[paper](https://doi.org/10.48550/arXiv.2505.22954)]
+- [2025/05] How Memory Management Impacts LLM Agents: An Empirical Study of Experience-Following Behavior. [[paper](https://arxiv.org/abs/2505.16067)]
 - [2025/05] Alita: Generalist Agent Enabling Scalable Agentic Reasoning with Minimal Predefinition and Maximal Self-Evolution. [[paper](https://arxiv.org/abs/2505.20286)]
 - [2025/05] SkillWeaver: Web Agents can Self-Improve by Discovering and Honing Skills. [[paper](https://doi.org/10.48550/arXiv.2504.07079)]
 - [2025/05] LearnAct: Few-Shot Mobile GUI Agent with a Unified Demonstration Benchmark. [[paper](https://doi.org/10.48550/arXiv.2504.13805)]
@@ -235,7 +266,7 @@ Through this structure, we hope to provide a conceptual foundation for rethinkin
 ### Working Memory
 
 #### Token-level
-- [2026/01] MemRL: Self-Evolving Agents via Runtime Reinforcement Learning on Episodic Memory. [[paper]](https://arxiv.org/abs/2601.03192)
+- [2026/01] MemRL: Self-Evolving Agents via Runtime Reinforcement Learning on Episodic Memory. [[paper](https://arxiv.org/abs/2601.03192)]
 - [2026/01] Agentic Memory: Learning Unified Long-Term and Short-Term Memory Management for Large Language Model Agents. [[paper](https://arxiv.org/abs/2601.01885)]
 - [2025/11] Memory as Action: Autonomous Context Curation for Long-Horizon Agentic Tasks. [[paper](https://doi.org/10.48550/arXiv.2510.12635)]
 - [2025/11] IterResearch: Rethinking Long-Horizon Agents via Markovian State Reconstruction. [[paper](https://arxiv.org/abs/2511.07327)]
@@ -304,4 +335,3 @@ If you find this repository helpful, a citation to our paper would be greatly ap
 ## ⭐️ Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=Shichun-Liu/Agent-Memory-Paper-List&type=date&legend=top-left)](https://www.star-history.com/#Shichun-Liu/Agent-Memory-Paper-List&type=date&legend=top-left)
-
