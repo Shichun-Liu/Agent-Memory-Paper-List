@@ -54,6 +54,7 @@ Through this structure, we hope to provide a conceptual foundation for rethinkin
 ### Factual Memory
 
 #### Token-level
+- [2026/02] Panini: Continual Learning in Token Space via Structured Memory. [[paper](https://arxiv.org/abs/2602.15156)]
 - [2026/01] Memory Matters More: Event-Centric Memory as a Logic Map for Agent Searching and Reasoning. [[paper](https://www.arxiv.org/abs/2601.04726)]
 - [2026/01] MAGMA: A Multi-Graph based Agentic Memory Architecture for AI Agents. [[paper](https://arxiv.org/abs/2601.03236)]
 - [2026/01] EverMemOS: A Self-Organizing Memory Operating System for Structured Long-Horizon Reasoning. [[paper](https://www.arxiv.org/abs/2601.02163)]
@@ -69,6 +70,7 @@ Through this structure, we hope to provide a conceptual foundation for rethinkin
 - [2025/11] O-Mem: Omni Memory System for Personalized, Long Horizon, Self-Evolving Agents. [[paper](https://arxiv.org/abs/2511.13593)]
 - [2025/11] RCR-Router: Efficient Role-Aware Context Routing for Multi-Agent LLM Systems with Structured Memory. [[paper](https://doi.org/10.48550/arXiv.2508.04903)]
 - [2025/11] Enabling Personalized Long-term Interactions in LLM-based Agents through Persistent Memory and User Profiles. [[paper](https://doi.org/10.48550/arXiv.2510.07925)]
+- [2025/11] Beyond Fact Retrieval: Episodic Memory for RAG with Generative Semantic Workspaces. [[paper](https://arxiv.org/abs/2511.07587)]
 - [2025/10] Livia: An Emotion-Aware AR Companion Powered by Modular AI Agents and Progressive Memory Compression. [[paper](https://doi.org/10.48550/arXiv.2509.05298)]
 - [2025/10] D-SMART: Enhancing LLM Dialogue Consistency via Dynamic Structured Memory And Reasoning Tree. [[paper](https://arxiv.org/abs/2510.13363)]
 - [2025/10] WebWeaver: Structuring Web-Scale Evidence with Dynamic Outlines for Open-Ended Deep Research. [[paper](https://doi.org/10.48550/arXiv.2509.13312)]
