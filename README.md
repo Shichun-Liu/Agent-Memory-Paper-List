@@ -172,6 +172,7 @@ Through this structure, we hope to provide a conceptual foundation for rethinkin
 ### Experiential Memory
 
 #### Token-level
+- [2026/11] Who Remembers What? Multi-Granularity Memory Extraction for Multi-User, Multi-Agent Interaction. [[paper](https://arxiv.org/abs/2611.10439)]
 - [2026/01] MemRL: Self-Evolving Agents via Runtime Reinforcement Learning on Episodic Memory. [[paper](https://arxiv.org/abs/2601.03192)]
 - [2025/12] MemEvolve: Meta-Evolution of Agent Memory Systems. [[paper](https://arxiv.org/abs/2512.18746)]
 - [2025/12] Remember Me, Refine Me: A Dynamic Procedural Memory Framework for Experience-Driven Agent Evolution. [[paper](https://arxiv.org/abs/2512.10696)]
